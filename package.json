@@ -1,0 +1,23 @@
+{
+  "name": "qtexter",
+  "version": "0.1.0",
+  "description": "A simple text editor with shortcut support.",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^3.0.0-beta.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/01QueN10/QTexter.git"
+  },
+  "author": "QN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/01QueN10/QTexter/issues"
+  },
+  "homepage": "https://github.com/01QueN10/QTexter#readme"
+}
